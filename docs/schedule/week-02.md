@@ -21,6 +21,7 @@ What is one thing you wish you understood but don't?
     git upstream 
     git push
     ```
+- Review Assignment-01-Geopandas
 
 
 ## Core Questions
